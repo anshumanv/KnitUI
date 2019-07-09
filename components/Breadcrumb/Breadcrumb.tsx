@@ -2,7 +2,6 @@ import React, {
   ReactNode,
   ReactElement,
   CSSProperties,
-  Component,
   cloneElement,
   useState,
 } from "react"
